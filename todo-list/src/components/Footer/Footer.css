@@ -1,0 +1,8 @@
+.footer {
+    padding: 0.5rem 0.6rem;
+    display: flex;
+}
+
+.footer .item-all {
+    padding: auto 1rem;
+}

@@ -1,0 +1,13 @@
+.app {
+  /* text-align: center; */
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  
+}
+
+.app .app-container{
+  border: 3px solid rgb(122, 231, 250);
+  border-radius: 1.5rem;
+  padding: 1rem
+}
