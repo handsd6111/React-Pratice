@@ -1,0 +1,16 @@
+.header {
+    background-color: #999;
+}
+
+.header .search-zone {
+    padding: 0 10rem;
+}
+
+.header .title {
+    padding: 1rem 0;
+    font-size: 36px;
+}
+
+.header .input-zone {
+    padding: 1rem 0;
+}

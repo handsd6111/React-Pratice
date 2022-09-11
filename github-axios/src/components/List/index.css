@@ -1,0 +1,15 @@
+.list {
+    padding: 1rem 10rem;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.list .user-zone {
+    width: 12.5rem;
+    padding: 1rem;
+    text-align: center;
+}
+
+.list .user-zone img {
+    width: 12.5rem;
+}
